@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#db
+meals.db
+uber-clone-331501-2fb650f25118.json
